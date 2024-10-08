@@ -1,0 +1,3 @@
+/Users/rafaelasantana/Documents/FHTW/WS2024/FunctionalProgramming/CodeReviewA4/cmake-build-debug/CMakeFiles/CodeReviewA4.dir
+/Users/rafaelasantana/Documents/FHTW/WS2024/FunctionalProgramming/CodeReviewA4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelasantana/Documents/FHTW/WS2024/FunctionalProgramming/CodeReviewA4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
